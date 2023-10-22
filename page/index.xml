@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Christopher Bradley</title>
+    <link>https://christopherbradley.github.io/page/</link>
+    <description>Recent content in Pages on Christopher Bradley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christopherbradley.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://christopherbradley.github.io/page/coding/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherbradley.github.io/page/coding/</guid>
+      <description>Standards Web Content Accessibility Guidelines
+https://www.w3.org/WAI/WCAG21/quickref/ Whole of Government API Requirements
+https://api.gov.au/sections/wog-api-requirements.html Essential 8 https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight Python Zen of Python
+https://peps.python.org/pep-0020/ Numpy Development Workflow
+https://numpy.org/doc/stable/dev/development_workflow.html#writing-the-commit-message The Python Standard Library
+https://docs.python.org/3/library/index.html </description>
+    </item>
+    
+    <item>
+      <title>Contact Details</title>
+      <link>https://christopherbradley.github.io/page/contacts/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherbradley.github.io/page/contacts/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://christopherbradley.github.io/page/maps/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherbradley.github.io/page/maps/</guid>
+      <description>World Maps World Population Cartogram
+https://ourworldindata.org/world-population-cartogram The True Size of Coutries
+https://earthlymission.com/the-true-size-of-countries/ Global Peace Index
+https://www.visionofhumanity.org/wp-content/uploads/2023/06/GPI-2023-Web.pdf Australia Maps NSW Six maps
+https://maps.six.nsw.gov.au/etopo.html Digital Earth Australia
+https://www.dea.ga.gov.au Multiday Hikes in Australia
+https://lotsafreshair.com/multiday-hikes-in-australia/ Canberra Maps ACT mapi
+https://www.actmapi.act.gov.au Canberra Cycle Map
+https://www.transport.act.gov.au/__data/assets/pdf_file/0010/1961722/Cycle-network-map.pdf Centenary Trail Maps
+https://www.parks.act.gov.au/find-a-park/canberra-centenary-trail </description>
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://christopherbradley.github.io/page/rules/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherbradley.github.io/page/rules/</guid>
+      <description>International Treaties List of treaties by number of parties
+https://en.wikipedia.org/wiki/List_of_treaties_by_number_of_parties International Human Rights System
+https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/international-human-rights-system The Budapest convention - Cybercrime
+https://www.coe.int/en/web/cybercrime/the-budapest-convention Australian Public Service Laws that each department administers https://www.pmc.gov.au/sites/default/files/resource/download/aao-13-october-2022.pdf APS Agencies - Size and Function
+https://www.apsc.gov.au/aps-agencies-size-and-function Annual Reports and Budget Statements https://www.transparency.gov.au/publications Canberra Cycling Rules
+https://www.transport.act.gov.au/travel-options/walking-and-cycling/cycling/how-to-sharing-roads-and-paths Lake Burly Griffin Recreation Policy
+https://www.nca.gov.au/sites/default/files/LBG%20Recreation%20Policy%202017_0.pdf Privacy Act 1988
+https://www.legislation.gov.au/Details/C2014C00076 </description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>https://christopherbradley.github.io/page/sustainability/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherbradley.github.io/page/sustainability/</guid>
+      <description>Zero Waste Zero Waste Training Handbook
+https://zerowastecities.eu/tools/the-zero-waste-training-handbook/ Canberra No Waste by 2010 https://www.cityservices.act.gov.au/__data/assets/pdf_file/0019/1131814/noWasteby2010strategy.pdf Greenhouse gas emissions across the supply chain
+https://ourworldindata.org/food-choice-vs-eating-local Energy World Energy Data
+https://www.worldenergydata.org/world-electricity-generation/ Climate Analytics
+https://climateanalytics.org/publications/2021/australias-2030-emissions/ National Electricity Market
+https://www.aemc.gov.au/energy-system/electricity/electricity-system/NEM Climate change Intergovernmental Panel on Climate Change (IPCC)
+https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf The Paris Agreement https://unfccc.int/process-and-meetings/the-paris-agreement 80 Thousand Hours https://80000hours.org </description>
+    </item>
+    
+  </channel>
+</rss>
